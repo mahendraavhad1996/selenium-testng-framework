@@ -1,0 +1,17 @@
+# Maven
+target/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# TestNG / Reports
+test-output/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
